@@ -4,7 +4,7 @@ zbg
 Python library for zbg encoding.
 
 Installation
-===
+============
 
 pip install zbg
 
