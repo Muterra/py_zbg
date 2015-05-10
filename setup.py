@@ -18,14 +18,14 @@ import ez_setup
 # except NameError:
 #     pass
 # Carry on then. This seems to have issues with bad versions of setuptools
-ez_setup.use_setuptools()
+ez_setup.use_setuptools(version='2.0')
 
 # Import global dependencies required for setup.py
 from setuptools import setup, find_packages
 
 metadata = dict(
     name = 'zbg',
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'A python library for zbg encodings.',
     long_description = 'zbg is a general-purpose library for '
                        'serialization and deserialization with zbg '
