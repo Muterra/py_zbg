@@ -6,7 +6,7 @@ Python library for zbg encoding.
 Installation
 ============
 
-pip install zbg
+``>>> pip install zbg``
 
 Use
 ===
