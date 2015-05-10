@@ -4,6 +4,7 @@ LICENSING
 
 zbg: A python library for zbg encodings.
     Copyright (C) 2014-2015 Nicholas Badger
+    badg@muterra.io
     badg@nickbadger.com
     nickbadger.com
 
