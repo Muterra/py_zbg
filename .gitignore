@@ -57,3 +57,4 @@ simpleubjson/
 *.eics
 *.eica
 *.pem
+setuptools*
